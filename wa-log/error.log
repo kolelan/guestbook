@@ -1,0 +1,6 @@
+
+2019-07-19 12:39:52 127.0.0.1
+Unable to instantiate widget app_id=webasyst widget=currencyquotes for user contact_id=1 (does not exist or no access to app)
+
+2019-07-19 12:39:52 127.0.0.1
+Unable to instantiate widget app_id=webasyst widget=traffic for user contact_id=1 (does not exist or no access to app)

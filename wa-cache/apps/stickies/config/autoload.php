@@ -1,0 +1,23 @@
+<?php
+return array (
+  'stickiesSheetModel' => 'wa-apps/stickies/lib/models/stickiesSheet.model.php',
+  'stickiesStickyModel' => 'wa-apps/stickies/lib/models/stickiesSticky.model.php',
+  'stickiesSheetActions' => 'wa-apps/stickies/lib/actions/sheet/stickiesSheet.actions.php',
+  'stickiesBackendAction' => 'wa-apps/stickies/lib/actions/stickiesBackend.action.php',
+  'stickiesStickyActions' => 'wa-apps/stickies/lib/actions/sticky/stickiesSticky.actions.php',
+  'stickiesJsonActionsController' => 'wa-apps/stickies/lib/controller/stickiesJsonActions.controller.php',
+  'stickiesConfig' => 'wa-apps/stickies/lib/config/stickiesConfig.class.php',
+  'stickiesRightConfig' => 'wa-apps/stickies/lib/config/stickiesRightConfig.class.php',
+  'stickiesAPIMethod' => 'wa-apps/stickies/lib/classes/stickiesAPIMethod.class.php',
+  'stickiesModel' => 'wa-apps/stickies/lib/classes/stickiesModel.class.php',
+  'stickiesStickyAddMethod' => 'wa-apps/stickies/api/v1/stickies.sticky.add.method.php',
+  'stickiesStickyGetListMethod' => 'wa-apps/stickies/api/v1/stickies.sticky.getList.method.php',
+  'stickiesSheetGetInfoMethod' => 'wa-apps/stickies/api/v1/stickies.sheet.getInfo.method.php',
+  'stickiesSheetGetListMethod' => 'wa-apps/stickies/api/v1/stickies.sheet.getList.method.php',
+  'stickiesStickyUpdateMethod' => 'wa-apps/stickies/api/v1/stickies.sticky.update.method.php',
+  'stickiesStickyDeleteMethod' => 'wa-apps/stickies/api/v1/stickies.sticky.delete.method.php',
+  'stickiesSheetAddMethod' => 'wa-apps/stickies/api/v1/stickies.sheet.add.method.php',
+  'stickiesSheetDeleteMethod' => 'wa-apps/stickies/api/v1/stickies.sheet.delete.method.php',
+  'stickiesSheetUpdateMethod' => 'wa-apps/stickies/api/v1/stickies.sheet.update.method.php',
+  'stickiesStickyGetInfoMethod' => 'wa-apps/stickies/api/v1/stickies.sticky.getInfo.method.php',
+);
